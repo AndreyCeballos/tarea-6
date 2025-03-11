@@ -1,0 +1,20 @@
+@media (max-width: 941px) {
+  .caja2{
+    display: none;
+  }
+  .invisible{
+    display: block;
+    color: white;
+    font-size: 25px;
+  }
+  article{
+    color: white;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+}
